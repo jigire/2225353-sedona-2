@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Дмитрий Ткаченко](https://up.htmlacademy.ru/htmlcss-individual/2/user/2225353).
-* Наставник: `Неизвестно`.
+* Наставник: `Андрей Грачев`(https://htmlacademy.ru/profile/angra).
 
 ---
 
